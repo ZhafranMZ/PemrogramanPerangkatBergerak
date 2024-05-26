@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraKt</string>
+    <string name="BACKEND_URL">http://10.21.94.95:5000</string>
+    <string name="desc_IV_camera_view">Camera View</string>
+    <string name="desc_Btn_take_pict">Shot Button</string>
+    <string name="desc_Btn_upload">Upload Photo</string>
+</resources>
